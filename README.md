@@ -1,1 +1,1 @@
-# AI Multi Linear Regresson Model 
+# AI Multiple Linear Regresson Model 
